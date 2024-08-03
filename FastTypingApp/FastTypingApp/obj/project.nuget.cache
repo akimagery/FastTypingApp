@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jNs9QPzlAS7kyYzYvaAWDAGMuKLJFHfgMR9FpKgCYCUEI5YHzCjrpdzSbgnrsrr4n7rCDRGFawWBX7As/mm5aA==",
+  "dgSpecHash": "GJsW28oIoz4yQwtG1cX/lgt+sz2nVURPaIUnifRejJ2yWKUvPTW8DHqtOqKdr2Zv0EsBhoSraP3O2CK8a8dqew==",
   "success": true,
-  "projectFilePath": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\FastTypingApp.csproj",
+  "projectFilePath": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\FastTypingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akima\\.nuget\\packages\\bouncycastle.netcore\\1.8.5\\bouncycastle.netcore.1.8.5.nupkg.sha512",
     "C:\\Users\\akima\\.nuget\\packages\\google.protobuf\\3.19.4\\google.protobuf.3.19.4.nupkg.sha512",

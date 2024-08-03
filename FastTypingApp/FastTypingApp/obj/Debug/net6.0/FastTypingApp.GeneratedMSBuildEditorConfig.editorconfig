@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FastTypingApp
 build_property.RootNamespace = FastTypingApp
-build_property.ProjectDir = C:\Program Files\GitHub\FastTypingApp\FastTypingApp\
+build_property.ProjectDir = C:\Program Files\GitHub\FastTypingApp\FastTypingApp\FastTypingApp\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Program Files\GitHub\FastTypingApp\FastTypingApp
+build_property.MSBuildProjectDirectory = C:\Program Files\GitHub\FastTypingApp\FastTypingApp\FastTypingApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/Admin/index.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/Admin/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5caW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/ExerciseAdmin/Create.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/ExerciseAdmin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VBZG1pblxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/ExerciseAdmin/Edit.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/ExerciseAdmin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VBZG1pblxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/ExerciseAdmin/Index.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/ExerciseAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhlcmNpc2VBZG1pblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/Home/Exercise.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/Home/Exercise.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFeGVyY2lzZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/Home/Index.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/Login/Index.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/Login/Register.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/Login/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/Shared/_Layout.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/UserAdmin/Create.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/UserAdmin/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFkbWluXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/UserAdmin/Edit.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/UserAdmin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFkbWluXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/UserAdmin/Index.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/UserAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckFkbWluXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/UserExerciseAdmin/Index.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/UserExerciseAdmin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckV4ZXJjaXNlQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/_ViewImports.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/Views/_ViewStart.cshtml]
+[C:/Program Files/GitHub/FastTypingApp/FastTypingApp/FastTypingApp/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

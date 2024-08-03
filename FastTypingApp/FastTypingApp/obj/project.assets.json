@@ -1760,11 +1760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\FastTypingApp.csproj",
+      "projectUniqueName": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\FastTypingApp.csproj",
       "projectName": "FastTypingApp",
-      "projectPath": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\FastTypingApp.csproj",
+      "projectPath": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\FastTypingApp.csproj",
       "packagesPath": "C:\\Users\\akima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\obj\\",
+      "outputPath": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akima\\AppData\\Roaming\\NuGet\\NuGet.Config",

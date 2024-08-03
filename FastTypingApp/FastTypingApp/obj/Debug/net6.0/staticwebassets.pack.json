@@ -1,19 +1,19 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\css\\keyboard_style.css",
+      "Id": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\wwwroot\\css\\keyboard_style.css",
       "PackagePath": "staticwebassets\\css\\keyboard_style.css"
     },
     {
-      "Id": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\css\\site.css",
+      "Id": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\js\\keyboard_script.js",
+      "Id": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\wwwroot\\js\\keyboard_script.js",
       "PackagePath": "staticwebassets\\js\\keyboard_script.js"
     },
     {
-      "Id": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\js\\site.js",
+      "Id": "C:\\Program Files\\GitHub\\FastTypingApp\\FastTypingApp\\FastTypingApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
