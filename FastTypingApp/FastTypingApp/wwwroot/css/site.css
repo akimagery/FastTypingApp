@@ -1,0 +1,268 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f0f0f0;
+}
+
+main {
+    flex: 1;
+    overflow: hidden;
+}
+
+header {
+    background: #212121;
+    color: white;
+}
+
+header .top {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-size: 20px;
+    color: #FFFFCC;
+}
+
+.nav {
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    padding-bottom: 10px;
+}
+
+header .nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 0px 0px 0px 0px;
+    padding: 10px;
+}
+
+/*header .nav .active {
+    color: #FFFFCC;
+}*/
+
+header a:hover {
+    color: #FFFFCC;
+}
+
+.exercise_text {
+    font-size: 32px;
+    width: 100%;
+    overflow: hidden;
+    background: #212121;
+    color: #FFFFCC;
+    padding: 4px;
+    border-radius: 6px;
+}
+
+#exercise_text{
+    margin-left: 16px;
+}
+
+#passed_text {
+    margin-left: 6px;
+    color: #feffe9;
+}
+
+footer {
+    color: #FFFFCC;
+    width: 100%;
+    text-align: center;
+    height: 48px;
+    line-height: 48px;
+    flex-shrink: 0;
+    background: #212121;
+}
+
+.card {
+    margin-top: 20px;
+    padding: 10px 20px 20px 20px;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 5px 8px;
+    border-radius: 4px;
+    background: white;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.card p {
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.w-60 {
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.w-80 {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card a:link {
+    color: #212121;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.card a:visited {
+    color: #212121;
+    text-decoration: none;
+}
+
+.card a:hover {
+    color: black;
+    text-decoration: underline;
+}
+
+.card a:active {
+    color: #212121;
+    text-decoration: none;
+}
+
+.card h2{
+    text-align: left;
+}
+
+.card input[type=text], input[type=password], input[type=number], textarea {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+
+.button {
+    width: 100%;
+    background-color: #212121;
+    color: white;
+    padding: 10px 20px;
+    margin: 8px 0;
+    font-size: 16px;
+    border: 2px solid #212121;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #FFFFCC;
+    color: black;
+    border: 2px solid black;
+}
+
+.button_small {
+    color: white;
+    border: 2px solid #212121;
+    background-color: #212121;
+    padding: 4px 10px;
+    border-radius: 4px;
+}
+
+.button_small:hover {
+    background-color: #FFFFCC;
+    color: black;
+    border: 2px solid black;
+}
+
+
+
+.card table {
+    margin-top: 10px;
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 100%;
+}
+
+.card td, th {
+    /*border: 1px solid #ddd;*/
+    padding: 8px;
+    text-align: center;
+}
+
+.card th {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #212121;
+    color: white;
+}
+
+.card tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.card tr:hover {
+    background-color: #FFFFCC;
+}
+
+
+.card table a:link {
+    font-size: 16px;
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.card table a:link:hover {
+    text-decoration: underline;
+}
+
+
+table a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+
+table a:hover {
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#buttonSave{
+    margin-top: 10px;
+    display: none;
+}
+
+.exercise_params {
+    margin-top: 10px;
+    padding: 4px;
+    background: #212121;
+    color: white;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: row;
+}
+
+.exercise_params > *{
+    margin-left: 10px;
+}
+
+.choose_keyboard {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.choose_keyboard > * {
+    margin-left: 10px;
+}
+
+#exercise_params {
+    margin-top: 10px;
+    display: none;
+}

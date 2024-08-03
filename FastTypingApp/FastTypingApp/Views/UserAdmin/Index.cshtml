@@ -1,0 +1,40 @@
+﻿@model IEnumerable<FastTypingApp.Models.User>
+
+<div class="card w-80">
+<h2>Пользователи</h2>
+<p><a asp-action="Create">Добавить пользователя</a></p>
+<div style="overflow-x:auto;">
+<table class="table">
+    <tr>
+        <th>Логин</th>
+        <th>Хеш пароля</th>
+        <th>Права администратора</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Password</td>
+            @if (item.IsAdmin == true)
+            {
+                <td>Да</td>
+            }
+            else
+            {
+                <td>Нет</td>
+            }
+            <td>
+                <a asp-action="Edit" asp-controller="UserAdmin" asp-route-id="@item.Id">Изменить</a>
+            </td>
+            <td>
+                <form asp-controller="UserAdmin" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                <input type="submit" class="button_small" value="Удалить" />
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+</div>
+</div>

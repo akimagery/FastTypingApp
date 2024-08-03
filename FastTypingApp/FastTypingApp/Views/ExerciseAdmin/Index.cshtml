@@ -1,0 +1,36 @@
+﻿@model IEnumerable<FastTypingApp.Models.Exercise>
+<div class="card w-80">
+<h2>Упражнения</h2>
+<p><a asp-action="Create">Добавить упражнение</a></p>
+<div style="overflow-x:auto;">
+<table class="table">
+    <tr>
+        <th>Название</th>
+        <th>Уровень</th>
+        <th>Допустимое число ошибок</th>
+        <th>Максимальное допустимое время</th>
+        <th>Текст</th>
+        <th></th>
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.Level</td>
+            <td>@item.ErrorNum</td>
+            <td>@item.MaxTime сек.</td>
+            <td>@item.Text</td>
+            <td>
+                <a asp-action="Edit" asp-controller="ExerciseAdmin" asp-route-id="@item.Id">Изменить</a>
+            </td>
+            <td>
+                <form asp-controller="ExerciseAdmin" asp-action="Delete" method="post" asp-route-id="@item.Id">
+                    <input class="button_small" type="submit" value="Удалить" />
+                </form>
+            </td>
+        </tr>
+    }
+</table>
+</div>
+</div>

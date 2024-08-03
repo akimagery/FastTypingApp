@@ -1,0 +1,17 @@
+﻿@model FastTypingApp.Models.User
+<div class="card w-60">
+    <h2>Регистрация</h2>
+    <form asp-action="register" asp-controller="login">
+        <p>
+            <label asp-for="Name">Логин</label><br />
+            <input type="text" asp-for="Name" />
+        </p>
+        <p>
+            <label asp-for="Password">Пароль</label><br />
+            <input type="password" asp-for="Password" />
+        </p>
+        <p>
+            <input class="button" type="submit" value="Регистрация" />
+        </p>
+    </form>
+</div>

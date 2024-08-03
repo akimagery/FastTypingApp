@@ -1,0 +1,165 @@
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\appsettings.Development.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\appsettings.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.exe
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.deps.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.runtimeconfig.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.pdb
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.AssemblyReference.cache
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.AssemblyInfoInputs.cache
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.AssemblyInfo.cs
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.CoreCompileInputs.cache
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.FastTypingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FastTypingApp.props
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FastTypingApp.props
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FastTypingApp.props
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\scopedcss\bundle\FastTypingApp.styles.css
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\refint\FastTypingApp.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.pdb
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.genruntimeconfig.cache
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\ref\FastTypingApp.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Humanizer.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\MySql.Data.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\ZstdNet.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.CopyComplete
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.staticwebassets.runtime.json
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.RazorAssemblyInfo.cache
+C:\WorkingProjects\2023\March\March_25_asp_net_app\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.RazorAssemblyInfo.cs
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\appsettings.Development.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\appsettings.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.staticwebassets.runtime.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.exe
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.deps.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.runtimeconfig.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.pdb
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Humanizer.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\MySql.Data.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\ZstdNet.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.AssemblyReference.cache
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.AssemblyInfoInputs.cache
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.AssemblyInfo.cs
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.CoreCompileInputs.cache
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.RazorAssemblyInfo.cache
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.RazorAssemblyInfo.cs
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.FastTypingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FastTypingApp.props
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FastTypingApp.props
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FastTypingApp.props
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\scopedcss\bundle\FastTypingApp.styles.css
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.CopyComplete
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\refint\FastTypingApp.dll
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.pdb
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.genruntimeconfig.cache
+C:\OSPanel\domains\FastTypingApp\FastTypingApp\obj\Debug\net6.0\ref\FastTypingApp.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\appsettings.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.staticwebassets.runtime.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.exe
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.deps.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.runtimeconfig.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\FastTypingApp.pdb
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Google.Protobuf.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Humanizer.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Compression.LZ4.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\K4os.Hash.xxHash.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\MySql.Data.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\Ubiety.Dns.Core.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\ZstdNet.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\MySql.EntityFrameworkCore.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.AssemblyReference.cache
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.AssemblyInfoInputs.cache
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.AssemblyInfo.cs
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.CoreCompileInputs.cache
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.RazorAssemblyInfo.cache
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.RazorAssemblyInfo.cs
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.FastTypingApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.build.FastTypingApp.props
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FastTypingApp.props
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FastTypingApp.props
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\scopedcss\bundle\FastTypingApp.styles.css
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.csproj.CopyComplete
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\refint\FastTypingApp.dll
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.pdb
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\FastTypingApp.genruntimeconfig.cache
+C:\Users\akima\Рабочий стол\FastTypingApp\FastTypingApp\obj\Debug\net6.0\ref\FastTypingApp.dll

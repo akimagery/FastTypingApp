@@ -1,0 +1,174 @@
+﻿@model FastTypingApp.Models.UserExercise
+@{
+    ViewBag.Title = @ViewBag.Exercise.Name;
+}
+<div class="card w-80">
+<h2>@ViewBag.Exercise.Name</h2>
+<h3>Уровень: @ViewBag.Exercise.Level</h3>
+    <h3>Допустимое число ошибок: <span id="MaxErrors">@ViewBag.Exercise.ErrorNum</span></h3>
+    <h3>Максимальное допустимое время: <span id="MaxTime">@ViewBag.Exercise.MaxTime</span> сек.</h3>
+@*<h3>Пользователь: @ViewBag.User.Name</h3>*@
+<h3>Текст упражнения:</h3>
+<p class="exercise_text"><span id="passed_text"></span><span id="exercise_text">@ViewBag.Exercise.Text</span></p>
+    <button id="startButton" class="button" onclick="start()">Начать</button>
+    <form asp-action="SaveExercise" asp-controller="Home">
+        <input type="hidden" asp-for="UserId" value="@ViewBag.User.Id" />
+        <input type="hidden" asp-for="ExerciseId" value="@ViewBag.Exercise.Id" />
+        <input id="errorNumHiddenInput" type="hidden" asp-for="ErrorNum" value="0" />
+        <input id="accuracyHiddenInput" type="hidden" asp-for="Accuracy" value="0" />
+        <input id="timeHiddenInput" type="hidden" asp-for="Time" value="0" />
+        <input id="succefullHiddenInput" type="hidden" asp-for="Succefull" value="false" />
+        <input id="buttonSave" class="button" type="submit" value="Сохранить результат" />
+    </form>
+<div id="exercise_params">
+<h3>Параметры:</h3>
+<div class="exercise_params">
+    <div>Время: <span id="timer"></span> сек.</div>
+    <div>Ваше число ошибок: <span id="error_num"></span></div>
+    <div>Точность: <span id="accuracy_span"></span></div>
+</div>
+</div>
+
+
+@*<button class="button" onclick="stop()">Завершить</button>*@
+<div class="choose_keyboard">
+    <div>
+        <input type="radio" id="rus" name="lang" value="rus" onchange="changeKeyboard()">
+        <label for="rus">Русская раскладка</label>
+    </div>
+    <div>
+        <input type="radio" id="eng" name="lang" value="eng" onchange="changeKeyboard()" checked>
+        <label for="rus">Английская раскладка</label>
+    </div>
+</div>
+<script src="script.js"></script>
+<div style="overflow-x:auto;">
+<div class="keyboard active_keyboard" id="eng_keyboard">
+    <div class="two_keys" id="~_`">~<div class="bottom_key">`</div></div>
+    <div class="two_keys" id="!_1">!<div class="bottom_key">1</div></div>
+    <div class="two_keys" id="@@_2">@@<div class="bottom_key">2</div></div>
+    <div class="two_keys" id="#_3">#<div class="bottom_key">3</div></div>
+    <div class="two_keys" id="$_4">$<div class="bottom_key">4</div></div>
+    <div class="two_keys" id="%_5">%<div class="bottom_key">5</div></div>
+    <div class="two_keys" id="^_6">^<div class="bottom_key">6</div></div>
+    <div class="two_keys" id="&_7">&<div class="bottom_key">7</div></div>
+    <div class="two_keys" id="*_8">*<div class="bottom_key">8</div></div>
+    <div class="two_keys" id="(_9">(<div class="bottom_key">9</div></div>
+    <div class="two_keys" id=")_0">)<div class="bottom_key">0</div></div>
+    <div class="two_keys" id="__-">_<div class="bottom_key">-</div></div>
+    <div class="two_keys" id="+_=">=<div class="bottom_key">+</div></div>
+    <div class="key backspace" id="backspace">Backspace</div>
+    <div class="key tab" id="tab">Tab</div>
+    <div class="key" id="Q">Q</div>
+    <div class="key" id="W">W</div>
+    <div class="key" id="E">E</div>
+    <div class="key" id="R">R</div>
+    <div class="key" id="T">T</div>
+    <div class="key" id="Y">Y</div>
+    <div class="key" id="U">U</div>
+    <div class="key" id="I">I</div>
+    <div class="key" id="O">O</div>
+    <div class="key" id="P">P</div>
+    <div class="two_keys" id="{_[">{<div class="bottom_key">[</div></div>
+    <div class="two_keys" id="}_]">}<div class="bottom_key">]</div></div>
+    <div class="two_keys backslash" id="backslash">|<div class="bottom_key">\</div></div>
+    <div class="key capslock" id="caps">CapsLock</div>
+    <div class="key" id="A">A</div>
+    <div class="key" id="S">S</div>
+    <div class="key" id="D">D</div>
+    <div class="key" id="F">F</div>
+    <div class="key" id="G">G</div>
+    <div class="key" id="H">H</div>
+    <div class="key" id="J">J</div>
+    <div class="key" id="K">K</div>
+    <div class="key" id="L">L</div>
+    <div class="two_keys" id=":_;">:<div class="bottom_key">;</div></div>
+    <div class="two_keys" id="quotes">"<div class="bottom_key">'</div></div>
+    <div class="key enter" id="enter">Enter</div>
+    <div class="key leftshift" id="leftshift">Shift</div>
+    <div class="key" id="Z">Z</div>
+    <div class="key" id="X">X</div>
+    <div class="key" id="C">C</div>
+    <div class="key" id="V">V</div>
+    <div class="key" id="B">B</div>
+    <div class="key" id="N">N</div>
+    <div class="key" id="M">M</div>
+    <div class="two_keys" id="<_,"><<div class="bottom_key">,</div></div>
+    <div class="two_keys" id=">_.">><div class="bottom_key">.</div></div>
+    <div class="two_keys" id="?_/">?<div class="bottom_key">/</div></div>
+    <div class="key rightshift" id="rightshift">Shift</div>
+    <div class="key leftctrl" id="leftctrl">Ctrl</div>
+    <div class="key win" id="leftwin">Win</div>
+    <div class="key alt" id="leftalt">Alt</div>
+    <div class="key space" id="space"></div>
+    <div class="key alt" id="rightalt">Alt</div>
+    <div class="key win" id="rightwin">Win</div>
+    <div class="key rightctrl" id="rightctrl">Ctrl</div>
+</div>
+</div>
+
+<div style="overflow-x:auto; ">
+<div class="keyboard" id="rus_keyboard">
+    <div class="two_keys" id="r~_`">~<div class="bottom_key">Ё</div></div>
+    <div class="two_keys" id="r!_1">!<div class="bottom_key">1</div></div>
+    <div class="two_keys" id="r@@_2">"<div class="bottom_key">2</div></div>
+    <div class="two_keys" id="r#_3">№<div class="bottom_key">3</div></div>
+    <div class="two_keys" id="r$_4">;<div class="bottom_key">4</div></div>
+    <div class="two_keys" id="r%_5">%<div class="bottom_key">5</div></div>
+    <div class="two_keys" id="r^_6">:<div class="bottom_key">6</div></div>
+    <div class="two_keys" id="r&_7">?<div class="bottom_key">7</div></div>
+    <div class="two_keys" id="r*_8">*<div class="bottom_key">8</div></div>
+    <div class="two_keys" id="r(_9">(<div class="bottom_key">9</div></div>
+    <div class="two_keys" id="r)_0">)<div class="bottom_key">0</div></div>
+    <div class="two_keys" id="r__-">_<div class="bottom_key">-</div></div>
+    <div class="two_keys" id="r+_=">=<div class="bottom_key">+</div></div>
+    <div class="key backspace" id="rbackspace">Backspace</div>
+    <div class="key tab" id="rtab">Tab</div>
+    <div class="key" id="rQ">Й</div>
+    <div class="key" id="rW">Ц</div>
+    <div class="key" id="rE">У</div>
+    <div class="key" id="rR">К</div>
+    <div class="key" id="rT">Е</div>
+    <div class="key" id="rY">Н</div>
+    <div class="key" id="rU">Г</div>
+    <div class="key" id="rI">Ш</div>
+    <div class="key" id="rO">Щ</div>
+    <div class="key" id="rP">З</div>
+    <div class="key" id="r{_[">Х</div>
+    <div class="key" id="r}_]">Ъ</div>
+    <div class="two_keys backslash" id="rbackslash">/<div class="bottom_key">\</div></div>
+    <div class="key capslock" id="rcaps">CapsLock</div>
+    <div class="key" id="rA">Ф</div>
+    <div class="key" id="rS">Ы</div>
+    <div class="key" id="rD">В</div>
+    <div class="key" id="rF">А</div>
+    <div class="key" id="rG">П</div>
+    <div class="key" id="rH">Р</div>
+    <div class="key" id="rJ">О</div>
+    <div class="key" id="rK">Л</div>
+    <div class="key" id="rL">Д</div>
+    <div class="key" id="r:_;">Ж</div>
+    <div class="key" id="rquotes">Э</div>
+    <div class="key enter" id="renter">Enter</div>
+    <div class="key leftshift" id="rleftshift">Shift</div>
+    <div class="key" id="rZ">Я</div>
+    <div class="key" id="rX">Ч</div>
+    <div class="key" id="rC">С</div>
+    <div class="key" id="rV">М</div>
+    <div class="key" id="rB">И</div>
+    <div class="key" id="rN">Т</div>
+    <div class="key" id="rM">Ь</div>
+    <div class="key" id="r<_,">Б</div>
+    <div class="key" id="r>_.">Ю</div>
+    <div class="two_keys" id="r?_/">,<div class="bottom_key">.</div></div>
+    <div class="key rightshift"  id="rrightshift">Shift</div>
+    <div class="key leftctrl" id="rleftctrl">Ctrl</div>
+    <div class="key win"  id="rleftwin">Win</div>
+    <div class="key alt" id="rleftalt">Alt</div>
+    <div class="key space"  id="rspace"></div>
+    <div class="key alt" id="rrightalt">Alt</div>
+    <div class="key win" id="rrightwin">Win</div>
+    <div class="key rightctrl" id="rrightctrl">Ctrl</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\FastTypingApp",
+    "\\FastTypingApp\\Controllers",
+    "\\FastTypingApp\\Models",
+    "\\FastTypingApp\\Properties",
+    "\\FastTypingApp\\Views",
+    "\\FastTypingApp\\Views\\ExerciseAdmin",
+    "\\FastTypingApp\\Views\\Home",
+    "\\FastTypingApp\\wwwroot",
+    "\\FastTypingApp\\wwwroot\\js"
+  ],
+  "SelectedNode": "\\FastTypingApp\\Controllers\\LoginController.cs",
+  "PreviewInSolutionExplorer": false
+}

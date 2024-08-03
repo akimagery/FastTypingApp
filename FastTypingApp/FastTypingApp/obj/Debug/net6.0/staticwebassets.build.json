@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "wSCQ2t88wD4W++ZE9PY34PLLEKE8GrbU7RD7RffqEE4=",
+  "Source": "FastTypingApp",
+  "BasePath": "_content/FastTypingApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FastTypingApp\\wwwroot",
+      "Source": "FastTypingApp",
+      "ContentRoot": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\",
+      "BasePath": "_content/FastTypingApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\css\\keyboard_style.css",
+      "SourceId": "FastTypingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\",
+      "BasePath": "_content/FastTypingApp",
+      "RelativePath": "css/keyboard_style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\keyboard_style.css"
+    },
+    {
+      "Identity": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\css\\site.css",
+      "SourceId": "FastTypingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\",
+      "BasePath": "_content/FastTypingApp",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\js\\keyboard_script.js",
+      "SourceId": "FastTypingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\",
+      "BasePath": "_content/FastTypingApp",
+      "RelativePath": "js/keyboard_script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\keyboard_script.js"
+    },
+    {
+      "Identity": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\js\\site.js",
+      "SourceId": "FastTypingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\akima\\Рабочий стол\\FastTypingApp\\FastTypingApp\\wwwroot\\",
+      "BasePath": "_content/FastTypingApp",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+﻿@model FastTypingApp.Models.User
+<div class="card w-60">
+<h2>Редактирование пользователя</h2>
+<form asp-action="edit" asp-controller="useradmin">
+    <p>
+        <label asp-for="Name">Логин</label><br />
+        <input type="text" asp-for="Name" />
+    </p>
+    <p>
+        <label asp-for="Password">Хеш пароля</label><br />
+        <input type="text" asp-for="Password" />
+    </p>
+    <p>
+        <label asp-for="IsAdmin">Права администратора</label><br />
+        <input type="checkbox" asp-for="IsAdmin" />
+    </p>
+    <p>
+        <input type="submit" class="button" value="Сохранить" />
+    </p>
+</form>
+</div>

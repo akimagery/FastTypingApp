@@ -1,0 +1,109 @@
+body * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.keyboard {
+    display: none;
+    max-width: 1064px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4px;
+    grid-template-columns: repeat(30, 30px);
+    grid-template-rows: repeat(5, 60px);
+    grid-gap: 5px;
+}
+
+.active_keyboard{
+    display: grid;
+}
+
+.key {
+    background-color: #212121;
+    color: white;
+    border: 2px solid darkgrey;
+    border-radius: 5px;
+    grid-column: span 2;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 14px;
+}
+
+.two_keys {
+    background-color: #212121;
+    color: white;
+    border: 2px solid darkgrey;
+    border-radius: 5px;
+    grid-column: span 2;
+    text-align: center;
+    padding-top: 0px;
+    font-size: 18px
+}
+
+.bottom_key {
+    margin-top: 0px;
+}
+
+.key:hover {
+    border: 2px solid #212121;
+    background: #FFFFCC;
+    color: #212121;
+}
+
+.two_keys:hover {
+    border: 2px solid #212121;
+    background: #FFFFCC;
+    color: #212121;
+}
+
+.backspace {
+    grid-column: span 4;
+}
+
+.tab {
+    grid-column: span 3;
+}
+
+.backslash {
+    grid-column: span 3;
+}
+
+.capslock {
+    grid-column: span 4;
+}
+
+.enter {
+    grid-column: span 4;
+}
+
+.leftshift {
+    grid-column: span 5;
+}
+
+.rightshift {
+    grid-column: span 5;
+}
+
+.leftctrl {
+    grid-column: span 3;
+}
+
+.win {
+    grid-column: span 3;
+}
+
+.alt {
+    grid-column: span 3;
+}
+
+.space {
+    grid-column: span 11;
+}
+
+.rightctrl{
+    grid-column: span 4;
+}

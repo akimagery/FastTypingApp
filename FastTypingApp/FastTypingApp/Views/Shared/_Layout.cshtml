@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - FastTypingApp</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/keyboard_style.css" asp-append-version="true" />
+</head>
+<body onkeypress="return myKeyPress(event)">
+    <main>
+    <header>
+        <nav>
+            <div class="top">
+                <div class="title left">Обучение скоропечатанию</div>
+            </div>
+            <div class="nav">
+                <p><a asp-controller="Home" asp-action="Index">Главная</a></p>
+                    @if (User.IsInRole("admin"))
+                    {
+                        <p><a asp-controller="Admin" asp-action="Index">Администрирование</a></p>
+                    }
+                    @if (!User.Identity.IsAuthenticated)
+                    {
+                        <p><a asp-controller="Login" asp-action="Index">Авторизация</a></p>
+                    }
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <p><a asp-controller="Login" asp-action="Logout">Выход</a></p>
+
+                    }
+            </div>
+        </nav>
+    </header>
+
+    @RenderBody()
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="~/js/keyboard_script.js" asp-append-version="true"></script>
+    </main>
+    <footer>
+        &copy; 2023 Обучение скоропечатанию
+    </footer>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>

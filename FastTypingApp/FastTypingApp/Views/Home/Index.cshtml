@@ -1,0 +1,47 @@
+﻿<div class="card w-80">
+
+@model IEnumerable<FastTypingApp.Models.Exercise>
+<h2>Список доступных упражнений</h2>
+<ul>
+    @foreach (var item in Model)
+    {
+       <p><a asp-action="Exercise" asp-controller="Home" asp-route-id="@item.Id">@item.Name (уровень @item.Level)</a></p>
+    }
+</ul>
+</div>
+
+<div class="card w-80">
+    <h2>Пройденные вами упражнения @ViewBag.User.Name</h2>
+    <h3>Всего упражнений пройдено вами: @ViewBag.ExercisesNum</h3>
+    <div style="overflow-x:auto;">
+    <table class="table">
+        <tr>
+            <th>Упражнение</th>
+            <th>Уровень сложности</th>
+            <th>Допустимое число ошибок</th>
+            <th>Число ошибок</th>
+            <th>Точность</th>
+            <th>Время</th>
+            <th>Пройдено</th>
+        </tr>
+        @foreach (var item in ViewBag.UserExercises)
+        {
+            <tr>
+                <td>@item.Exercise.Name</td>
+                <td>@item.Exercise.Level</td>
+                <td>@item.Exercise.ErrorNum</td>
+                <td>@item.ErrorNum</td>
+                <td>@item.Accuracy %</td>
+                <td>@item.Time сек.</td>
+                @if (item.Succefull == true)
+                {
+                    <td>Да</td>
+                } else
+                {
+                    <td>Нет</td>
+                }
+            </tr>
+        }
+    </table>
+    </div>
+</div>
